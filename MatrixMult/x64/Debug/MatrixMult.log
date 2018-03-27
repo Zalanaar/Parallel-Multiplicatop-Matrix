@@ -1,0 +1,4 @@
+﻿  Multiplicatopn.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+d:\спбпу\10 семестр\parallel\matrixmult\matrixmult\multiplicatopn.cpp(35): warning C4101: second_matrix: неиспользованная локальная переменная
+  MatrixMult.vcxproj -> D:\СпбПУ\10 семестр\Parallel\MatrixMult\x64\Debug\MatrixMult.exe
